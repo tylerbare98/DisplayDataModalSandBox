@@ -1,3 +1,5 @@
+This and all my other project on github can be run by going to gitpod and typing npm start.
+
 Tyler Bare
 ~8 hours completion time, but wanted to make sure it was organized and not sloppy. I testify that this work was completed by myself.
 
