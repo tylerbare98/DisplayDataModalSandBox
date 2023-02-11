@@ -1,0 +1,30 @@
+.chart {
+  height: 200px;
+}
+
+.verticleArrows {
+  color: rgb(143, 85, 250);
+  font-size: xx-large;
+}
+
+.verticleArrows:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.innerBox {
+  height: 375px;
+}
+
+.chartTitle {
+  margin-bottom: 0;
+}
+
+.tableTitle {
+  padding-bottom: 5pxx;
+}
+
+.noDataDisplay {
+  text-align: auto;
+  margin-top: 10px;
+}

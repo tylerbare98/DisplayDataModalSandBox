@@ -1,0 +1,54 @@
+.EModal-background {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(255, 228, 225, 0.5);
+}
+
+.EModal-container {
+  width: 800px;
+  background-color: white;
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.EModal-header {
+  background-color: rgb(143, 85, 250);
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.EModal-body {
+  height: 400px;
+}
+
+.EModal-footer {
+  padding: 20px;
+}
+
+.arrows {
+  color: white;
+  font-size: xx-large;
+}
+
+.arrows:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.chartTitle {
+  margin-bottom: 0;
+}
+
+.tooltipStyling {
+  background-color: transparent;
+}
+
+.headerFormatting {
+  cursor: pointer;
+}
