@@ -1,5 +1,4 @@
 Tyler Bare
-tylerbare98@gmail.com 256-788-1867
 ~8 hours completion time, but wanted to make sure it was organized and not sloppy. I testify that this work was completed by myself.
 
 Clicking on the main table row will pop up a modal containing all the data for that row. You can use the left/right arrows to change row data being used. The up/down arrows will switch between different parts of the data to display, but still using the same row data. In the modal header the title is also toggleable in order to display basic data that was already shown on the main page table.
